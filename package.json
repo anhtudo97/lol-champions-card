@@ -1,0 +1,12 @@
+{
+  "name": "lol-list-champions-card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
